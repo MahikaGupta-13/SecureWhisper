@@ -13,9 +13,6 @@ User Panel: Send/receive encrypted messages, manage contacts
 Encryption Module: AES encryption/decryption using user keys
 Authentication: Secure login, registration, and session management
 
-📄 Documentation
-View Full Project Documentation (PDF)
-
 🛠 Technologies Used
 Python (Django)
 AES-GCM Encryption (Cryptography Library)
