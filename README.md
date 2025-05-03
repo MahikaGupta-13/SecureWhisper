@@ -1,4 +1,4 @@
-SecureWhisper | Python (Django), AES Encryption, SQLite, Bootstrap
+SecureWhisper 
 A secure end-to-end encrypted messaging platform enabling confidential communication with user-managed keys and privacy-focused architecture.
 
 🌟 Features
@@ -23,4 +23,4 @@ SQLite
 HTML, CSS, Bootstrap
 
 ## 📄 Documentation  
-[📄 View Full Project Documentation (PDF)](docs/SecureWhisper_Documentation.pdf)
+[📄 View Full Project Documentation (PDF)](SecureWhisper_Documentation.pdf)
