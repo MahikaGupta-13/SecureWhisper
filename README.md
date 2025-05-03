@@ -1,4 +1,26 @@
 SecureWhisper | Python (Django), AES Encryption, SQLite, Bootstrap
-I developed SecureWhisper, a secure messaging platform that ensures end-to-end encrypted communication using AES encryption and user-managed keys, allowing only intended recipients to decrypt messages.
-The system integrates secure user authentication, user discovery, and encrypted messaging within a responsive Django + Bootstrap interface. 
-By prioritizing data privacy, encryption integrity, and scalable architecture, SecureWhisper addresses growing digital privacy concerns and offers a robust, user-friendly solution for confidential communication resistant to interception and unauthorized access.
+A secure end-to-end encrypted messaging platform enabling confidential communication with user-managed keys and privacy-focused architecture.
+
+🌟 Features
+Secure user registration and authentication
+End-to-end AES-GCM encrypted messaging with user-managed keys
+User search, follow, and chat initiation
+Responsive UI for seamless communication
+Privacy-focused architecture with minimal data exposure
+
+📂 Modules
+User Panel: Send/receive encrypted messages, manage contacts
+Encryption Module: AES encryption/decryption using user keys
+Authentication: Secure login, registration, and session management
+
+📄 Documentation
+View Full Project Documentation (PDF)
+
+🛠 Technologies Used
+Python (Django)
+AES-GCM Encryption (Cryptography Library)
+SQLite
+HTML, CSS, Bootstrap
+
+## 📄 Documentation  
+[📄 View Full Project Documentation (PDF)](docs/SecureWhisper_Documentation.pdf)
